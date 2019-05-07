@@ -59,8 +59,8 @@
     </sco:Collection>
   </TextExpression.ReferencesForImplementation>
   <Sequence sap2010:WorkflowViewState.IdRef="Sequence_1">
-    <ui:MessageBox Caption="{x:Null}" ChosenButton="{x:Null}" Buttons="Ok" DisplayName="Message Box" sap2010:WorkflowViewState.IdRef="MessageBox_1" Text="[&quot;Hello World!&quot;+vbCrLf+&quot;How are you?&quot;]" TopMost="True" />
-    <sads:DebugSymbol.Symbol>d0xDOlxhbmFuZFxPbmVEcml2ZSAtIFVpUGF0aFxwcm9qZWN0c1xnaXRfcmVwb1xVaVBhdGhcSmVua2luc1Rlc3QxLjBcTWFpbi54YW1sAz0DQA4CAQE+BT7oAQIBAj6aAT7WAQIBAw==</sads:DebugSymbol.Symbol>
+    <ui:MessageBox Caption="{x:Null}" ChosenButton="{x:Null}" Buttons="Ok" DisplayName="Message Box" sap2010:WorkflowViewState.IdRef="MessageBox_1" Text="[&quot;Hello World!&quot;+vbCrLf+&quot;How are you?&quot;+vbCrLf+&quot;Just another message&quot;]" TopMost="True" />
+    <sads:DebugSymbol.Symbol>d0xDOlxhbmFuZFxPbmVEcml2ZSAtIFVpUGF0aFxwcm9qZWN0c1xnaXRfcmVwb1xVaVBhdGhcSmVua2luc1Rlc3QxLjBcTWFpbi54YW1sAz0DQA4CAQE+BT6QAgIBAj6aAT7+AQIBAw==</sads:DebugSymbol.Symbol>
   </Sequence>
   <sap2010:WorkflowViewState.ViewStateManager>
     <sap2010:ViewStateManager>
